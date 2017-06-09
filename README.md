@@ -25,7 +25,7 @@ English, Japanese, and Chinese are OK. Relevant parts of non-English language re
 
 ---
 
-## How to properly report issues here
+## How to properly report issues here (example issue can be found [here](https://github.com/angelXwind/KarenIssueTracker/issues/1))
 
 1. Include what project of mine you're reporting a bug with.
 1. Include what iOS version and devices you have successfully reproduced the bug on.

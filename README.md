@@ -8,7 +8,7 @@ If the project you are reporting a bug or requesting a new feature for is open-s
 
 ---
 
-## My prominent open-source projects
+## Don't use this if you're reporting an issue with one of the below projects!
 
 * [PreferenceOrganizer 2](https://github.com/angelXwind/PreferenceOrganizer2)
 * [AppSync Unified](https://github.com/angelXwind/AppSync)
@@ -16,3 +16,12 @@ If the project you are reporting a bug or requesting a new feature for is open-s
 * [KarenPrefs](https://github.com/angelXwind/KarenPrefs)
 * [KarenLocalizer](https://github.com/angelXwind/KarenLocalizer)
 * [IneffectivePower](https://github.com/angelXwind/IneffectivePower)
+
+---
+
+## How to properly report issues here
+
+1. Include what project of mine you're reporting a bug with.
+1. Include what iOS version and devicesyou have successfully reproduced the bug on.
+1. If you are able to tell, list whether or not the issue is specific to the iOS version(s) and/or iOS device(s) tested.
+1. Please tag your issue appropriately.
